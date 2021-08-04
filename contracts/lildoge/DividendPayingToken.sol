@@ -21,7 +21,7 @@ contract DividendPayingToken is ERC20, Ownable, DividendPayingTokenInterface, Di
   using SafeMathUint for uint256;
   using SafeMathInt for int256;
 
-  address public immutable DOGE = address(0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82); //DOGE
+  address public immutable DOGE = address(0xbA2aE424d960c26247Dd6c32edC70B295c744C43); //DOGE
 
 
   // With `magnitude`, we can properly distribute dividends even if the amount of received ether is small.
