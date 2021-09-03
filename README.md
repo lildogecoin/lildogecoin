@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://miro.medium.com/fit/c/262/262/1*GdsI5JXRrqYVzXcEudQWsw.png" width="64" />
+  <img src="https://miro.medium.com/fit/c/131/131/1*wv6P3fjAJXEcPK4eb_jDzQ.png" width="64" />
   <br/>
   <h3 align="center">Lil Doge</h3>
 </p>
